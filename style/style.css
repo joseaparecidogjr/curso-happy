@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Nanum+Pen+Script|Pacifico|Righteous|Roboto&display=swap');
+
+body{
+    position: relative;
+}
+
+h1 {
+    color: rgb(179, 212, 179);
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    color: rgb(208, 208, 233);
+    font-family: 'Pacifico', cursive;
+}
+
+p {
+    color: rgb(208, 208, 233);
+    font-family: 'Cinzel', serif;
+}
+
+a {
+    color: white;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 30px;
+    background-color: orangered;
+    width: 300px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+
+#tchunaii {
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    width: 100%;
+}
+
+#botao2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#leviosaahhh {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.card-text {
+    color: navy;
+}
+
+.btn-primary {
+    width: 100px;
+    height: 50px;
+    padding-top: 13px;
+    margin: 0;
+    background-color: seagreen;
+    border: none;
+}
+
+.card {
+    display: inline-block;
+    margin: 70px;
+}
+
+.fundo-rosa {
+    background-color: darksalmon;
+    width: 100%;
+    height: 130px;
+}
